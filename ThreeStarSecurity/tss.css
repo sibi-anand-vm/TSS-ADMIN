@@ -1,0 +1,233 @@
+*{
+	margin:0;
+	border:0;
+	box-sizing:border-box;
+}
+nav{
+	border:black 3px solid;
+	display:flex;
+	position:fixed;
+	text-shadow:1px 1px #000000;
+	padding-top:10px;
+	padding-left:29px;
+	padding-bottom:10px;
+	background-color:brown;
+	color:white;
+	width:100%;
+	font-weight: bold;
+	align-items:center;
+}
+nav ul{
+display:flex;
+list-style-type:none;
+}
+nav ul li{
+	margin:16px;
+}
+nav ul li a{
+	text-decoration: none;
+	color:white;
+}
+nav ul li a:hover{
+	color:yellow;
+	text-decoration:underline;
+}
+h3{
+	color:green;
+	font-weight:bold;
+}
+.tin{
+	border:2px black solid;
+	color:yellow;
+	margin-left:none;
+	padding-top:405px;
+	padding-left:200px;
+	font-stretch: yellow;
+	padding-bottom:15%;
+	margin-bottom:none;
+	font-weight:bold;
+	background-image: url('https://campushunt.in/photogallery/Sri%20ramakrishna1.jpg');
+}
+button{
+	padding:5px;
+	font-weight:bold;
+}
+.sign{
+	margin-left:605px;
+	margin-right:5px;
+	margin-top:10px;
+	padding:3px 6px;
+	margin-bottom:15px;
+	text-decoration:none;
+	color:white;
+	background-color:#4169e1; 
+}
+.sign:hover{
+	color:red;
+	border-color:green;
+}	
+.log1:hover{
+	color:red;
+	border-color:blue;
+}
+.log1{
+	text-decoration:none;
+	margin-top:10px;
+	margin-bottom:15px;  
+	margin-left:10px;
+	padding:3px 6px;
+	color:white;
+	background-color:#32cd32; 
+}
+.out{
+	width:100%;
+}
+.image{
+	margin-top:132px;
+	margin-bottom:122px;
+	margin-left:60px;
+	margin-right:30px;
+	float:left;
+}
+.cont{
+	padding-top:170px;
+	padding-left:none;
+	background-image: url('https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?w=2000'); 
+	padding-bottom:290px;
+}
+.ab{
+	font-weight: bold;
+	color: brown;
+	font-size:45px;
+}
+.announ{
+	background-image:url('https://cdn.wallpapersafari.com/29/32/5nf7AX.jpg');
+	padding-top:265px;
+	padding-right:60px;
+	padding-bottom:245px; 
+	padding-left:85px;
+}
+.letter{
+		border:2px green solid;
+		background-image:url('https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg');
+		border-radius:20px;
+		padding-left:15px;
+		padding-bottom:15px;
+ padding-right:20px;
+}
+.announ{
+	display:flex;
+}
+.com{
+	text-decoration:underline;
+	color:#CB4335;
+	padding-bottom:5px;
+}
+.anime{
+	margin-left:100px;
+	height:45px;
+	width:25px;
+}
+.ap{
+	font-size:25px;
+	padding:4px 6px;
+}
+.join{
+	font-size:55px;
+margin-left:250px;
+	padding-top:100px;
+text-shadow:transparent;
+font-weight:bold;
+}
+.line{
+	font-size:40px;
+	text-decoration: underline;
+	margin-left: 250px;
+}
+.cout{
+	margin-left:250px;
+	margin-top:200px;
+	margin-bottom:100px;
+}
+.add{
+	display:flex;
+}
+.phone{
+		background-image:url('https://img.freepik.com/premium-photo/website-internet-contact-us-page-concept-with-phone-chat-email-icons-symbol-telephone-mail-mobile-phone-website-page-contact-us-wide-web-banner-copy-space-blue-background_256259-2730.jpg');
+padding-bottom:10px;
+}
+.add{
+	padding:4px 4px;
+	font-size:15px;
+}
+.na{
+	margin-left:15px;
+	margin-right:10px;
+	width:240px;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-bottom:25px;
+}
+.cout{
+	display:flex;
+}
+.rev{
+		text-align:center;
+			color:brown;
+			font-size:45px;
+			text-decoration:underline;
+			margin-bottom:25px;
+			font-weight:bold;
+}
+.em{
+	margin-bottom:25px;
+	padding-bottom:15px;
+	margin-left:15px;
+	margin-right:10px;
+	padding-top:13px;
+	width:330px;
+}
+.area{
+	margin-left: 15px;
+	height:90px;
+	width:330px;
+	margin-bottom:18px;
+}
+.address{
+	color:brown;
+	text-decoration:underline;
+		padding-bottom:10px;
+}
+.foun{
+		color:brown;
+	text-decoration:underline;
+	padding-bottom:10px;
+}
+.num{
+margin-left:15px;
+	margin-right:10px;
+	width:240px;
+	padding-top:10px;
+	margin-bottom:25px;
+	padding-bottom:10px;
+}
+.for{
+	padding:20px 14px;
+		width:450px;
+	height:490px;
+	border:3px black solid;
+	border-radius:15px;
+	background-image:url('https://t4.ftcdn.net/jpg/04/60/71/01/360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh.jpg');
+margin-left:170px;
+}
+.but{
+	margin-left:55px;
+	font-size:25px;
+	background-color:grey;
+	border:3px red solid;
+	padding-top:15px;
+	padding-bottom:15px;
+	align-content:center;
+	padding-right:75px;
+	padding-left:75px;
+}
